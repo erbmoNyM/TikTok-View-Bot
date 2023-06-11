@@ -7,7 +7,7 @@
 @time: 2024/07/29
 """
 
-import requests, time, json, urllib.parse, random, threading
+import time, json, urllib.parse, random, threading
 
 VIDEO = "7243438263308963077"
 IID = "72434396231729"
