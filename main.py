@@ -9,9 +9,9 @@
 
 import requests, time, json, urllib.parse, random, threading
 
-VIDEO = ""
-IID = ""
-DID = ""
+VIDEO = "7243438263308963077"
+IID = "72434396231729"
+DID = "7243466176461456902"
 
 def view(video):
     try:
